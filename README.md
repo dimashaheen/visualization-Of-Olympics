@@ -24,8 +24,8 @@ considering a lot of terms to fully summarize all needed information.
 
 ## Data exploration questions
 
-1-Ages with most Medals
-2-Average age entries of Males vs Females
+1.Ages with most Medals
+2.Average age entries of Males vs Females
 3-Each Sport presence in both Seasons
 4-Most teams with gold medals
 5-How many players participated in every olympic game

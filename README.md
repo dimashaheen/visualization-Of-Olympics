@@ -24,17 +24,17 @@ considering a lot of terms to fully summarize all needed information.
 
 ## Data exploration questions
 
-1.Ages with most Medals
-2.Average age entries of Males vs Females
-3-Each Sport presence in both Seasons
-4-Most teams with gold medals
-5-How many players participated in every olympic game
-6-Ages of USA players over the years
-7-Numbers of players of top 10 countries who participated in Olympics over the years
-8-Heights & Weights of participants who won medals
-9-Heights of DEN women who participated over the years in winter season
-10-Comparision between gender participation in all sports during winter season
-11-Number of females participants over the years in summer season
-12-Age in each sport
-13-Age in each country
+*Ages with most Medals
+*Average age entries of Males vs Females
+*Each Sport presence in both Seasons
+*Most teams with gold medals
+*How many players participated in every olympic game
+*Ages of USA players over the years
+*Numbers of players of top 10 countries who participated in Olympics over the years
+*Heights & Weights of participants who won medals
+*Heights of DEN women who participated over the years in winter season
+*Comparision between gender participation in all sports during winter season
+*Number of females participants over the years in summer season
+*Age in each sport
+*Age in each country
 

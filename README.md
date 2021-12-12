@@ -11,8 +11,8 @@ Our goal is to visualize some of the asked questions regarding the history of ol
 considering a lot of terms to fully summarize all needed information. 
 
 ## Steps
-1st: Understanding Data through plots and predifined methods. e.g(info(),describe()).
-2nd: Plotting a heatmap to show off the null values in each column.
+* Understanding Data through plots and predifined methods. e.g(info(),describe()).
+* Plotting a heatmap to show off the null values in each column.
 3rd: Adjusting "Medal" column to an apprpriate values.
 4th: Visualizing the distribution and the correlation of the "Age" column to determine the perfect filling method.
 5th: Filling the "Age" column while putting into consideration "Event" column.

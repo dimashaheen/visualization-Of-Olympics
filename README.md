@@ -13,14 +13,14 @@ considering a lot of terms to fully summarize all needed information.
 ## Steps
 * Understanding Data through plots and predifined methods. e.g(info(),describe()).
 * Plotting a heatmap to show off the null values in each column.
-3rd: Adjusting "Medal" column to an apprpriate values.
-4th: Visualizing the distribution and the correlation of the "Age" column to determine the perfect filling method.
-5th: Filling the "Age" column while putting into consideration "Event" column.
-6th:Visualizing the correlation of the "Weight" column with other columns to determine the perfect filling method.
-7th:Filling the "Weight" column while putting into consideration "Event" and "Age" columns.
-8th:Visualizing the correlation of the "Height" column with other columns to determine the perfect filling method.
-9th:Filling the "Height" column while putting into consideration "Weight" and "Age" columns.
-10th:Visualizing the data exploration questions.
+* Adjusting "Medal" column to an apprpriate values.
+* Visualizing the distribution and the correlation of the "Age" column to determine the perfect filling method.
+* Filling the "Age" column while putting into consideration "Event" column.
+* Visualizing the correlation of the "Weight" column with other columns to determine the perfect filling method.
+* Filling the "Weight" column while putting into consideration "Event" and "Age" columns.
+* Visualizing the correlation of the "Height" column with other columns to determine the perfect filling method.
+* Filling the "Height" column while putting into consideration "Weight" and "Age" columns.
+* Visualizing the data exploration questions.
 
 ## Data exploration questions
 

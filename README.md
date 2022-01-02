@@ -21,20 +21,46 @@ considering a lot of terms to fully summarize all needed information.
 * Visualizing the correlation of the "Height" column with other columns to determine the perfect filling method.
 * Filling the "Height" column while putting into consideration "Weight" and "Age" columns.
 * Visualizing the data exploration questions.
+* Identifying and removing outliers for each column using boxplots.
+* Visualizing data after removing outliers.
+* Converting variables in medals dataset to be appropriate for integration with other datasets.
+* Integrating noc_regions dataset to the existing one.
+* Integrating medals dataset to the merged one. 
 
 ## Data exploration questions
 
-* Ages with most Medals
-* Average age entries of Males vs Females
-* Each Sport presence in both Seasons
-* Most teams with gold medals
-* How many players participated in every olympic game
-* Ages of USA players over the years
-* Numbers of players of top 10 countries who participated in Olympics over the years
-* Heights & Weights of participants who won medals
-* Heights of DEN women who participated over the years in winter season
-* Comparision between gender participation in all sports during winter season
-* Number of females participants over the years in summer season
-* Age in each sport
-* Age in each country 
+* What are Ages with most Medals?
+* What is the average age entries of Males vs Females?
+* How is the presence of each Sport in both Seasons?
+* Whom are most teams with gold medals.
+* How many players participated in every olympic game?
+* What are ages of USA players over the years?
+* What are numbers of players of top 10 countries who participated in Olympics over the years?
+* What is Heights & Weights of participants who won medals?
+* What is Heights of DEN women who participated over the years in winter season?
+* How gender participation differs in winter season?
+* What is number of females participants over the years in summer season?
+* What is Age in each sport?
+* What is Age in each country? 
+
+
+## Description of the newly added dataset
+
+The new dataset is reinforced with essential data,now we can notice ranking of each noc in terms of medals,
+also we can specify total medals for each noc.
+
+
+## Description of newly added features
+
+The new added feutures have a huge impact on the dataset,
+were "BMI" column provides a great insight on wether person is obese or not,
+also "Age_labels" column provides us with a classification of ages throughout data.
+
+## Research Questions
+
+* What are the rankings of each noc in tokyo 2021?
+* How BMI varies for every region?
+* What is the age impact on winning medals?
+
+
 
